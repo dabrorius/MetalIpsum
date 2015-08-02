@@ -1,0 +1,21 @@
+GIT
+  remote: https://github.com/dabrorius/marky_markov.git
+  revision: 69349832daf7514c44d330f6c57e39821973c303
+  specs:
+    marky_markov (0.3.5)
+      msgpack
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mini_portile (0.6.2)
+    msgpack (0.6.2)
+    nokogiri (1.6.6.2)
+      mini_portile (~> 0.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  marky_markov!
+  nokogiri
